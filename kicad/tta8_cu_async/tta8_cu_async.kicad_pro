@@ -60,6 +60,14 @@
       ],
       "drc_exclusions": [
         [
+          "courtyards_overlap|123330000|72935000|57611f7c-c2a3-4128-8361-31d2799a987e|5964e1b4-2bd9-4400-91bb-72e684924d0c",
+          ""
+        ],
+        [
+          "courtyards_overlap|123435000|120885000|82ea70f9-bf22-46a7-a6c3-ca1c5d120b8d|9494520d-885c-4fa2-8bfa-7175acbf37b3",
+          ""
+        ],
+        [
           "courtyards_overlap|60855000|55850000|00a71267-8cd4-4cb5-b8eb-6fc80d796b16|5559d5f3-db3c-43cf-a530-7b8cc1fe19be",
           ""
         ]
